@@ -1,3 +1,4 @@
 source "https://rubygems.org"
 
-gem "heroku"
+gem "rendezvous"
+gem "heroku-api"
